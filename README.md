@@ -1,1 +1,2 @@
 # TransacPro
+TransactPro is a Java-based console banking application that demonstrates core object-oriented programming principles such as abstraction, inheritance, and polymorphism. It allows users to create savings and checking accounts, perform deposits, withdrawals, and transfers, and persist account data using file I/O to ensure balances are maintained across sessions. The system includes validation and error handling to ensure safe and consistent financial transactions.
